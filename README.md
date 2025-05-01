@@ -1,8 +1,8 @@
-<h1>SIEM Tool Home Lab</h1>
+<h1>Splunk Log Analysis Lab</h1>
 
 
 <h2>Description</h2>
-In this lab we are going to be setting up a home lab using Elastic SIEM and a Kali VM. We will forward data from the Kali VM to the SIEM using the Elastic Beats agent, generate security events on the Kali VM using Nmap, and query and analyze the logs in the SIEM using the Elastic web interface. We'll also create a dashboard to visualize security events and then create an alert to detect security events.<br />
+In this lab, we set up a hands-on project using Splunk Enterprise to analyze web server logs. We ingest sample data into Splunk, perform search queries to explore the data, and build dashboards to visualize key metrics. This exercise demonstrates practical experience with Splunk’s core functions, providing a solid foundation in log analysis, visualization, and security monitoring.<br />
 
 
 <h2>Languages and Utilities Used</h2>
