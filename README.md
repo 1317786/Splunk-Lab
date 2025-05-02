@@ -31,22 +31,24 @@ Uploaded sample data into Splunk and confirmed indexing: <br/>
 <img src="Agent Verifed Connection.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generating security events using nmap for the SIEM to pick up on:  <br/>
+Identified the most frequently accessed web pages using SPL query:  <br/>
 <img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Log analysis: <br/>
+Displayed a breakdown of HTTP status codes to monitor server health: <br/>
 <img src="Log Analysis.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Custom query for nmap: <br/>
+Visualized web traffic trends and HTTP status codes over time: <br/>
 <img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <br />
 <br />
-Dashboard containing security events:  <br/>
+Listed the top five client IP addresses by request volume.
+
+:  <br/>
 <img src="Dashboard.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
