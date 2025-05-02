@@ -32,7 +32,7 @@ Uploaded sample data into Splunk and confirmed indexing: <br/>
 <br />
 <br />
 Identified the most frequently accessed web pages using SPL query:  <br/>
-<img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="top 10 accessed pages .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Displayed a breakdown of HTTP status codes to monitor server health: <br/>
