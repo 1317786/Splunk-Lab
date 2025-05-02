@@ -40,7 +40,7 @@ Displayed a breakdown of HTTP status codes to monitor server health: <br/>
 <br />
 <br />
 Visualized web traffic trends and HTTP status codes over time: <br/>
-<img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Traffic Over Time Visualization.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
