@@ -17,8 +17,7 @@ In this lab, we set up a hands-on project using Splunk Enterprise to analyze web
 
 <h2>Takeaways</h2>
 
-- <b>Elastic Stack SIEM Configuration and Management</b>: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
-
+- <b>Splunk Configuration and Data Ingestion</b>: Successfully installed and configured Splunk Enterprise, ingested sample log data, and verified data indexing. Demonstrated familiarity with Splunk’s interface, data inputs, and indexing workflow.
 
 - <b>Security Event Simulation and Analysis</b>: Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. Proficient in querying Elastic SIEM to identify and investigate security incidents, enhancing skills in network security monitoring and threat detection.
 
