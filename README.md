@@ -47,7 +47,7 @@ Visualized web traffic trends and HTTP status codes over time: <br/>
 <br />
 <br />
 Listed the top five client IP addresses by request volume:  <br/>
-<img src="Dashboard.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Top 5 Client IPs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
