@@ -55,7 +55,8 @@ Listed the top five client IP addresses by request volume:  <br/>
 <br />
 <br />
 Created a dashboard combining all panels for centralized analysis:  <br/>
-<img src="Email Alert Setup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dashboard first half.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dashboard second half.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 </p>
