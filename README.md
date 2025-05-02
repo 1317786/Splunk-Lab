@@ -21,8 +21,7 @@ In this lab, we set up a hands-on project using Splunk Enterprise to analyze web
 
 - <b>Search Query Development and Analysis</b>: Gained hands-on experience writing SPL queries to explore, filter, and summarize log data. Developed proficiency in identifying top accessed pages, monitoring HTTP status codes, and analyzing traffic patterns over time.
 
-
-- <b>Visualization and Alerting in SIEM</b>: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.
+- <b>Dashboard Creation and Visualization</b>: Built a custom Splunk dashboard showcasing key metrics using tables, charts, and graphs. Demonstrated ability to translate raw data into meaningful visual insights, strengthening reporting and monitoring skills.
 
 
 <h2>Program walk-through:</h2>
