@@ -27,7 +27,7 @@ In this lab, we set up a hands-on project using Splunk Enterprise to analyze web
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Connecting to the Elastic Beats agent in order to receive data from Kali VM: <br/>
+Uploaded sample data into Splunk and confirmed indexing: <br/>
 <img src="Agent Verifed Connection.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
