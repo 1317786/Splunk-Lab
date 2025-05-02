@@ -28,7 +28,7 @@ In this lab, we set up a hands-on project using Splunk Enterprise to analyze web
 
 <p align="center">
 Uploaded sample data into Splunk and confirmed indexing: <br/>
-<img src="Agent Verifed Connection.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Sample Data Upload .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Identified the most frequently accessed web pages using SPL query:  <br/>
