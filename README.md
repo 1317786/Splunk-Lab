@@ -46,9 +46,7 @@ Visualized web traffic trends and HTTP status codes over time: <br/>
 
 <br />
 <br />
-Listed the top five client IP addresses by request volume.
-
-:  <br/>
+Listed the top five client IP addresses by request volume:  <br/>
 <img src="Dashboard.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -56,7 +54,7 @@ Listed the top five client IP addresses by request volume.
 
 <br />
 <br />
-Alert to detect security events via email:  <br/>
+Created a dashboard combining all panels for centralized analysis:  <br/>
 <img src="Email Alert Setup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
