@@ -8,12 +8,12 @@ In this lab, we set up a hands-on project using Splunk Enterprise to analyze web
 <h2>Languages and Utilities Used</h2>
 
 
-- <b>Oracle Virtual Box</b>
+- <b>Splunk Enterprise</b>
+- <b>Search Processing Language (SPL)</b>
 
 <h2>Environments Used </h2>
 
-- <b>Elastic Cloud</b>
-- <b>Kali Linux</b> 
+- <b>Splunk Enterprise (local install)</b> 
 
 <h2>Takeaways</h2>
 
