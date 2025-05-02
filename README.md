@@ -36,7 +36,7 @@ Identified the most frequently accessed web pages using SPL query:  <br/>
 <br />
 <br />
 Displayed a breakdown of HTTP status codes to monitor server health: <br/>
-<img src="Log Analysis.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="HTTP Status Code Distribution.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Visualized web traffic trends and HTTP status codes over time: <br/>
