@@ -19,7 +19,8 @@ In this lab, we set up a hands-on project using Splunk Enterprise to analyze web
 
 - <b>Splunk Configuration and Data Ingestion</b>: Successfully installed and configured Splunk Enterprise, ingested sample log data, and verified data indexing. Demonstrated familiarity with Splunk’s interface, data inputs, and indexing workflow.
 
-- <b>Security Event Simulation and Analysis</b>: Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. Proficient in querying Elastic SIEM to identify and investigate security incidents, enhancing skills in network security monitoring and threat detection.
+- <b>Search Query Development and Analysis</b>: Gained hands-on experience writing SPL queries to explore, filter, and summarize log data. Developed proficiency in identifying top accessed pages, monitoring HTTP status codes, and analyzing traffic patterns over time.
+
 
 - <b>Visualization and Alerting in SIEM</b>: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.
 
